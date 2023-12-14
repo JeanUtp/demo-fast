@@ -1,1 +1,3 @@
 Este es una prueba más
+
+Nuevos metodos
